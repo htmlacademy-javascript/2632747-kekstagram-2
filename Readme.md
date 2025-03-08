@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Alexey Lemesh](https://up.htmlacademy.ru/javascript-individual/2/user/2632747).
-* Наставник: `Неизвестно`.
+- Студент: [Alexey Lemesh](https://up.htmlacademy.ru/javascript-individual/2/user/2632747).
+- Наставник: [Анастасия Мазаева](https://htmlacademy.ru/profile/id2598639).
 
 ---
 
